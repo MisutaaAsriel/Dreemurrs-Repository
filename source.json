@@ -14,7 +14,9 @@
         {
             "name":"com.vrchat.community.harmony",
             "releases":[
-                "https://github.com/MisutaaAsriel/VRCHarmony/releases/download/2.4.1.0%2Bbddfee062/com.vrchat.community.harmony-2.4.1.0.zip"
+
+                "https://github.com/MisutaaAsriel/VRCHarmony/releases/download/2.4.1.0%2Bbddfee062/com.vrchat.community.harmony-2.4.1.0.zip",
+                "https://github.com/MisutaaAsriel/VRCHarmony/releases/download/2.4.1.0%2Bb337e83d9/com.vrchat.community.harmony-2.4.1.0.zip"
             ]
         }
     ]
