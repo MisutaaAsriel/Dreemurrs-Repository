@@ -14,7 +14,6 @@
         {
             "name":"dev.pardeike.harmony",
             "releases":[
-                "https://github.com/MisutaaAsriel/VRCHarmony/releases/download/2.4.1%2B0.6.63/dev.pardeike.harmony-2.4.1.0.zip",
                 "https://github.com/MisutaaAsriel/VRCHarmony/releases/download/2.4.1%2B0.7.64/dev.pardeike.harmony-2.4.1.0.zip"
             ]
         },
